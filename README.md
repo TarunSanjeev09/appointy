@@ -1,9 +1,22 @@
-#Building an static hompage using React js
-All the elements in the Homepage are different objects(scrolls) which are present in src>Components>Pages>HomePage>PageSections
+# Building an static hompage using React js
+All the elements in the Homepage are developed as different objects (scrolls) 
+You can find all the scrolls in this [path](https://github.com/TarunSanjeev09/appointy/tree/master/src/Components/Pages/HomePage/PageSections) 
+i.e.👉src>Components>Pages>HomePage>PageSections
+
+The page has two different grid layout with 8 elements in that, for that a Grid Hero was created to make code reusable
+This files are present in the folter [Components](https://github.com/TarunSanjeev09/appointy/tree/master/src/Components)
+
+This is the result 🧢
+<img src="src/Home-Page.svg" />
 
 
 
-# Getting Started with Create React App
+
+
+
+
+### 👇 From here you can find the process for running the files. 👇
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
