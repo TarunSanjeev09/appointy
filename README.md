@@ -1,3 +1,8 @@
+#Building an static hompage using React js
+All the elements in the Homepage are different objects(scrolls) which are present in src>Components>Pages>HomePage>PageSections
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
