@@ -1,0 +1,29 @@
+.wrapper2 {
+  display: inline-grid;
+  grid-template-columns: auto;
+  height: 100vh;
+  /* align-content: center; */
+}
+
+.heading {
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.buttons {
+  display: inline-grid;
+  grid-template-columns: 300px 300px 300px;
+  align-content: center;
+  margin-left: 400px;
+}
+.btn {
+  border-radius: 50px;
+  background-color: rgb(224, 224, 224);
+  width: 260px;
+  height: 60px;
+}
+
+.img {
+  width: 100%;
+}

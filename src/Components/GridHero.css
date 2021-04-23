@@ -1,0 +1,20 @@
+.Home-grid {
+  display: inline-grid;
+  grid-template-columns: auto auto auto auto;
+  /* background-color: #2196f3; */
+  padding: 50px;
+  height: 100vh;
+}
+
+.Home-grid-iteam {
+  /* background-color: rgba(255, 255, 255, 0.8); */
+  /* border: 1px solid rgba(0, 0, 0, 0.8); */
+  padding: 30px;
+  font-size: 20px;
+  text-align: left;
+}
+.heading {
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+}
